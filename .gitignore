@@ -1,0 +1,14 @@
+   # Visual Studio
+   .vs/
+   bin/
+   obj/
+   *.user
+   *.suo
+
+   # SSIS
+   *.database
+   *.dtsx.bak
+   *.ispac
+
+   # Data
+   *.csv
